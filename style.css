@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: 'poppins',sans-serif;
-    box-sizing:borber-box;
+    box-sizing:border-box;
 }
 body{
     background: #000;
@@ -65,6 +65,7 @@ nav button{
     line-height:70px ;
     font-weight: 600;
     max-width: 650px;
+    font-family: bold;
 }
 .header-content h3{
     font-size: 400;
@@ -84,7 +85,7 @@ nav button{
 }
   ::placeholder{
     color: aliceblue;
-    font-family: bold;
+    
   }
 
 
