@@ -76,15 +76,21 @@ nav button{
 }
 .email-signup input{
    background:transparent;
+   width:400px;
    opacity: 0.9;
-   padding: 15px 30px;
+   padding: 14px 30px;
    cursor: pointer;
    border-radius: 4px ;
-  
-
 }
+  ::placeholder{
+    color: aliceblue;
+    font-family: bold;
+  }
+
+
 .email-signup button{
     background:#db0001 ;
+    width: 150px;
     border: 0;
     outline: 0;
     color: #fff;
