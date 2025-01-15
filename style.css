@@ -142,7 +142,7 @@ nav button{
     font-size: 40px;
 }
 .accordian{
-    margin: 60px;
+    margin: 60px auto;
     width: 100%;
     max-width: 750px;
 }
